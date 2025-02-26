@@ -2,7 +2,7 @@
 
 This is a simple yet fun Tic Tac Toe game implemented using Pygame. The game allows two players to take turns and play against each other on a 3x3 grid. Enjoy the classic game with a modern twist!
 
-![Tic Tac Toe Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Tic Tac Toe Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXdjbXltODJoYzdjdGUzbzM0MXJlbHNqbWFudWRtbnd3Zjl2amg4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/riDHBmjuV2NhOJ2IeU/giphy.gif)
 
 ## Project Structure
 
