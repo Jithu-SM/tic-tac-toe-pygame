@@ -41,7 +41,7 @@ python game/main.py
 3. The first player to align three of their symbols horizontally, vertically, or diagonally wins the game.
 4. If all cells are filled and no player has won, the game ends in a draw.
 
-![Winning Animation](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Winning Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdmZ3hzdjl1anFrZHluN2p5eWp6bzBieGQ5eWY2emhoa2c4c25yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uvzu2xi8P8G4Eui5mT/giphy.gif)
 
 ## Contributing
 
